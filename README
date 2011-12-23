@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3858
+
+Vim GUI (MacVim, GVim) plugin to make remote editing more easy.
+
+More information on https://github.com/wannesm/rmvim.vim
+
+Inspired by the rmate functionality of TextMate but based on vim netrw .
